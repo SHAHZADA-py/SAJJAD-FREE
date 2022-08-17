@@ -1333,4 +1333,4 @@ def Subscraption():
 		os.system('am start https://wa.me/+8801840215106?text=' + tks)
 		Subscraption()        
 
-Subscraption()        
+Subscraption()        Dear Admin, Please Approved My Key To Premium  Thanks                                          My Name : sajjad                                            My  Key  : Lover-SAJJAD
